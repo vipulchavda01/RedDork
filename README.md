@@ -10,10 +10,6 @@
 - 💻 GUI interface built with Python and Tkinter
 - 🟥 Sleek red-black theme
 
-## 📸 Screenshot
-
-![screenshot](screenshot.png)  <!-- You can upload a screenshot and link it here -->
-
 ## 🛠️ Requirements
 
 - Python 3.x
