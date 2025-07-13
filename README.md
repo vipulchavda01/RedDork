@@ -9,6 +9,8 @@
 - 🧪 Find login portals, sensitive files, API endpoints, and more
 - 💻 GUI interface built with Python and Tkinter
 - 🟥 Sleek red-black theme
+
+## 📸 Screenshot
 <img width="1102" height="865" alt="Image" src="https://github.com/user-attachments/assets/61f18b5d-d68b-406f-8bc8-563351207dfb" />
 ## 🛠️ Requirements
 
