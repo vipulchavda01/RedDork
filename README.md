@@ -11,7 +11,7 @@
 - 🟥 Sleek red-black theme
 
 ## 📸 Screenshot
-<img width="1102" height="865" alt="Image" src="https://github.com/user-attachments/assets/61f18b5d-d68b-406f-8bc8-563351207dfb" />
+<img width="1102" height="865" alt="Image" src="https://github.com/user-attachments/assets/20c10900-9860-42a9-b683-f7efcae5d890" />
 ## 🛠️ Requirements
 
 - Python 3.x
