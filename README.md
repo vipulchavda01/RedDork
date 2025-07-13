@@ -24,4 +24,4 @@
 ```bash
 git clone https://github.com/yourusername/RedDork.git
 cd RedDork
-python dork_finder.py
+python RedDork.py
