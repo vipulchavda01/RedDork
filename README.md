@@ -20,6 +20,6 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/RedDork.git
+git clone https://github.com/vipulchavda01/RedDork.git
 cd RedDork
 python RedDork.py
